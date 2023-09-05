@@ -1,0 +1,1 @@
+print(sum(b'2%a'%input())&31)
